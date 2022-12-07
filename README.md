@@ -27,13 +27,13 @@ To run this project, you will need to add the cypress.env.json file to the proje
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/franciscoCabezasVega/prueba-tecnica-talana.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd 
+  cd prueba-tecnica-talana/
 ```
 
 Install dependencies
