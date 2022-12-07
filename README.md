@@ -12,7 +12,16 @@ This project aims to show the use of the cypress tool, as a test automation tool
 
 ## Environment Variables
 
-To run this project, you will need to add the cypress.env.json file to the project or open it with:
+To run this project, you will need to add the cypress.env.json file with the next information to the project:
+
+```bash
+{
+    "user": "francisco1994",
+    "password": "P@ssw0rd"
+}
+```
+
+or open it with:
 
 ```bash
     lockgit set-key G5H52ENNMLZ4HCTRFSIC2B2WTTHD2X2LN5JRPMCMLYZK46RGHQ3Q
