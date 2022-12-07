@@ -87,7 +87,7 @@ The faker library is also used so that the data generated is always random data 
 - **Dado que** un usuario previamente registrado en el sistema inicia sesión 
 - **Y** ya ha añadido sus productos al carrito de compras
 - **Cuando** el usuario haga clic sobre el botón `"Place Order"`
-- **Y** el sistema despliegue el formulario con los campos requeridos para realizar el pago 
+- **Y** el sistema despliega el formulario con los campos requeridos para realizar el pago 
 - **Y** al finalizar de diligenciar los campos requeridos el usuario haga clic sobre el botón `"Purchase"` 
 - **Entonces** el sistema mostrará una nueva ventana con la información del pago realizado.
 
@@ -96,7 +96,7 @@ The faker library is also used so that the data generated is always random data 
 - **Dado que** un usuario previamente registrado en el sistema inicia sesión 
 - **Y** ya ha añadido sus productos al carrito de compras
 - **Cuando** el usuario haga clic sobre el botón `"Place Order"`
-- **Y** el sistema despliegue el formulario con los campos requeridos para realizar el pago 
+- **Y** el sistema despliega el formulario con los campos requeridos para realizar el pago 
 - **Y** al finalizar de diligenciar solo los campos obligatorios el usuario haga clic sobre el botón `"Purchase"` 
 - **Entonces** el sistema mostrará una nueva ventana con la información del pago realizado.
 
@@ -105,7 +105,7 @@ The faker library is also used so that the data generated is always random data 
 - **Dado que** un usuario previamente registrado en el sistema inicia sesión 
 - **Y** ya ha añadido sus productos al carrito de compras
 - **Cuando** el usuario haga clic sobre el botón `"Place Order"`
-- **Y** el sistema despliegue el formulario con los campos requeridos para realizar el pago 
+- **Y** el sistema despliega el formulario con los campos requeridos para realizar el pago 
 - **Y** al finalizar de diligenciar solo los campos opcionales el usuario haga clic sobre el botón `"Purchase"` 
 - **Entonces** el sistema mostrará una alerta para solicitar que diligencie los campos obligatorios.
 
